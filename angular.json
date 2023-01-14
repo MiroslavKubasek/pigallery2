@@ -22,57 +22,9 @@
           "baseHref": ""
         },
         "locales": {
-          "zh": {
+          "cs": {
             "baseHref": "",
-            "translation": "src/frontend/translate/messages.cn.xlf"
-          },
-          "de": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.de.xlf"
-          },
-          "es": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.es.xlf"
-          },
-          "fr": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.fr.xlf"
-          },
-          "hu": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.hu.xlf"
-          },
-          "id": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.id.xlf"
-          },
-          "it": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.it.xlf"
-          },
-          "ro": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.ro.xlf"
-          },
-          "ru": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.ru.xlf"
-          },
-          "sv": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.sv.xlf"
-          },
-          "pl": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.pl.xlf"
-          },
-          "nl": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.nl.xlf"
-          },
-          "pt-br": {
-            "baseHref": "",
-            "translation": "src/frontend/translate/messages.pt-br.xlf"
+            "translation": "src/frontend/translate/messages.cs.xlf"
           }
         }
       },
